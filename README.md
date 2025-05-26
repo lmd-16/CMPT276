@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CMPT276
 
 [1 marks] What is the difference between Git and Github?
@@ -44,3 +45,4 @@ Include the answers to the following questions in your README file.
 SDLC is the process in which software is conceptualized, developed and maintained. It consists of seven phases: planning requirements, requirement analysis, design, implementation and coding, testing, deployment and maintenance. Planning, requirement analysis, and design, focus on the requirements of the application. On the other hand, implementation, testing, deployment and maintenance contextualize the requirements in the form of a physical product where it's tested, deployed and maintained. 
 [2 marks] In your own words, explain why Software Development Life Cycle (SDLC) is important in software projects.
 Planning the project enables us to look at specific requirements, dependencies and shortcomings that we might not have considered when looking at the big picture. It allows us to look into more detail of the requirements of the project and any risks or issues that might arise. Software development can be expensive and time-consuming therefore, SDLC is a time-efficient and cost-effective approach to software development. 
+
